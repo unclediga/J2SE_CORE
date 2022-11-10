@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ru.unclediga.example.java.tagir.AppTest" time="0.04" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev\target\test-classes;c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev\target\classes;C:\Users\BorodinovI\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\BorodinovI\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="c:\Users\BorodinovI\Java\jdk1.8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\BORODI~1\AppData\Local\Temp\surefire2251265447693633410\surefirebooter1574459454298875989.jar C:\Users\BorodinovI\AppData\Local\Temp\surefire2251265447693633410 2022-11-09T19-03-58_913-jvmRun1 surefire8972762724689569305tmp surefire_05108382561920850063tmp"/>
+    <property name="surefire.test.class.path" value="c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev\target\test-classes;c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev\target\classes;C:\Users\BorodinovI\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\BorodinovI\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\BorodinovI"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="c:\Users\BorodinovI\Java\jdk1.8\jre"/>
+    <property name="basedir" value="c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\BORODI~1\AppData\Local\Temp\surefire2251265447693633410\surefirebooter1574459454298875989.jar"/>
+    <property name="sun.boot.class.path" value="c:\Users\BorodinovI\Java\jdk1.8\jre\lib\resources.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\rt.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\sunrsasign.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\jsse.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\jce.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\charsets.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\lib\jfr.jar;c:\Users\BorodinovI\Java\jdk1.8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_51-b16"/>
+    <property name="user.name" value="BorodinovI"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.3"/>
+    <property name="java.endorsed.dirs" value="c:\Users\BorodinovI\Java\jdk1.8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="C:\Users\BorodinovI\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\BORODI~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_51"/>
+    <property name="user.dir" value="c:\Users\BorodinovI\WORK\MyJava\TUT\jdk_tagir\tgir_valeev"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="c:\Users\BorodinovI\Java\jdk1.8\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\BorodinovI\AppData\Local\Microsoft\WindowsApps;c:\Users\BorodinovI\Java\jdk1.8\bin;C:\Users\BorodinovI\Java\mvn\bin;C:\Users\BorodinovI\EDITOR\graphviz\bin;C:\Users\BorodinovI\Java\ant1.9\bin;C:\oracle\product\11.2.0\client_1\bin;c:\orant\bin;C:\Users\BorodinovI\NodeJS\node16;c:\erlang\bin;c:\erlang\rebar;C:\Users\BorodinovI\Flutter\bin;C:\Users\BorodinovI\SOFT\Git\cmd;C:\Users\BorodinovI\OSF\GnuWin;C:\Users\BorodinovI\OSF\Gow\bin;C:\Users\BorodinovI\OSF\ngrep;C:\Users\BorodinovI\OSF\FFV;C:\Users\BorodinovI\Java\gradle\bin;C:\Users\BorodinovI\Java\payara5\bin;C:\Users\BorodinovI\Java\payara5\javadb\bin;%H2DB%\bin;C:\Users\BorodinovI\EDITOR\planuml;C:\Users\BorodinovI\EDITOR\asciidoctorj-2.5.4\bin;C:\Users\BorodinovI\EDITOR\graphviz\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.51-b03"/>
+    <property name="java.ext.dirs" value="c:\Users\BorodinovI\Java\jdk1.8\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="ru.unclediga.example.java.tagir.AppTest" time="0.005"/>
+</testsuite>
